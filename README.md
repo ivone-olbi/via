@@ -10,4 +10,6 @@ _Tecnologias necessárias/usadas:
 1. realize o `git clone` do projeto;
 2. realize a instalação do plugin _Project Lombok_ na sua IDE favorita [clicando aqui](https://projectlombok.org);
 
+_obs.: as classes são injetadas via PicoContainer e o construtor de atributos finais do Project Lombok._
+
 🤜🤛

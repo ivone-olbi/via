@@ -30,7 +30,7 @@ public class DoisProdutosTest {
 
     @And("o produto {string}")
     public void o_produto(String nomeProduto) {
-        produtosPagina.listarProdutos();
+       produtosPagina.listarProdutos();
        selecionarProduto(nomeProduto, "XS", "Black");
     }
 
